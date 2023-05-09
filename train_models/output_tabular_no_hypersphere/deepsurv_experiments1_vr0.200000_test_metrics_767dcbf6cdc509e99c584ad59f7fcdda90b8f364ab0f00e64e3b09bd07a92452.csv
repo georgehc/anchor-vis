@@ -1,0 +1,3 @@
+dataset,experiment_idx,method,loss
+rotterdam-gbsg,0,deepsurv,-0.6789407238186846
+support,0,deepsurv,-0.6147037123703043
