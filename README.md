@@ -4,7 +4,8 @@ Author: George H. Chen (georgechen [at symbol] cmu.edu)
 
 This code accompanies the paper:
 
-> George H. Chen. "A General Framework for Visualizing Embedding Spaces of Neural Survival Analysis Models Based on Angular Information". CHIL 2023.
+> George H. Chen. "A General Framework for Visualizing Embedding Spaces of Neural Survival Analysis Models Based on Angular Information". CHIL 2023.\
+> \[[arXiv](https://arxiv.org/abs/2305.06862)\]
 
 ## Datasets
 
